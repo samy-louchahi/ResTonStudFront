@@ -1,0 +1,15 @@
+.lmj-bm-cover {
+	height: 220px;
+	width: 220px;
+	border : solid 0.5px #6b5b95;
+}
+
+.lmj-bm {
+	margin: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-transform: capitalize;
+    color : white;
+}

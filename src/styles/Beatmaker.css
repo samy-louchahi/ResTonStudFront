@@ -1,0 +1,19 @@
+.lmj-bm-list {
+	list-style-type: none;
+	display: flex;
+	flex-wrap: wrap;
+	width: 1430px;
+    background-color: black;
+	justify-content: center;
+	align-items: center;
+	margin : none;
+}
+
+.lmj-bm-title{
+	color : white;
+	width: 1430px;
+	font-size : 30px;
+	justify-content: center;
+	background-color: black;
+	align-items: center;
+}

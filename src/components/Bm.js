@@ -25,6 +25,6 @@ Bm.propTypes = {
 Bm.defaultProps = {
     name: 'Nom du beatmaker',
     ville: 'Ville du beatmaker',
-    cover: './user/samylouchahi/Documents/PROJETWEB/backend/public/images/AmineFarsi.png',
+    cover: 'https://restonstud-backend.onrender.com/public/images/AmineFarsi.png',
 }
 export default Bm;

@@ -6,7 +6,7 @@ import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import Button from 'react-bootstrap/Button';
-import ResTonStud from '../images/ResTonStud.svg';
+import ResTonStud from '../assets/ResTonStud.svg';
 
 export default function Menu() {
     const {isLoggedIn, setIsLoggedIn} = useAuth();

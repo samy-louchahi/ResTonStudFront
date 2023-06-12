@@ -45,7 +45,7 @@ export default function SignUpForm(){
     const accountCreated = async (pseudo, email, password) => {
         const user = {pseudo, email, password, admin : false};
         try{
-            const response = await fetch("http://localhost:3000/api/auth/signup", {
+            const response = await fetch("https://restonstud-backend.onrender.com/api/auth/signup", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
